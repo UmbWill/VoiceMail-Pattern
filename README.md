@@ -11,4 +11,7 @@ In this pattern there are lots of Producer and one Customer (changed from consum
 
 
 Normal case: Customer is at home
+Abnormal case: Customer not at home
+After Abnormal case: Customer come back
 
+See the wiki for more details.

@@ -1,5 +1,5 @@
 # VoiceMail-Pattern
-A new pattern idea: VoiceMail Pattern
+A (not so new?) pattern idea: VoiceMail Pattern
 
 The problem was simple:
 it was not possible use the Producer-Consumer Pattern because Consumer could not be always "online".
